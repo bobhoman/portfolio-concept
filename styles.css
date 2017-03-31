@@ -61,7 +61,7 @@ a:hover {
 
 header {
   text-align: center;
-  background: url('../images/background-img.gif') no-repeat top center ;
+  background: url('images/background-img.gif') no-repeat top center ;
   background-size: cover;
   overflow: hidden;
   padding-top: 60px;
@@ -175,7 +175,6 @@ footer ul li {
 
 a.social {
   display: inline-block;
-  text-indent: -10px;
   margin-left: 5px;
   width: 30px;
   height: 30px;
